@@ -2,6 +2,7 @@
 Proposal for a marketplace which can be used by IITD students to buy/sell items.
 
 ## Proposed features - v1.0
+- All updates to be complete overwriting in stage 1 later to be done atomically
 - **Login using kerberos oauth**, to allow only IITD students to access the portal.
 - The landing page will consist of 2 browsing sections - **browse latest deals**, and **browse by categories**. The categories will be pre-defined, including cycles, mattresses, electronics, books, etc. 
 - The user can choose to view the products according to any of the above options (latest items, or items of a particular category). The item listing page will consist of the items sorted according to the time of upload. The user can choose to sort the items in another way (e.g. sorting by price)
