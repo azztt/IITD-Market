@@ -1,6 +1,6 @@
 # Proposed Project TimeLine
 
-### Starts :
+### Starts : May 11, 2020
 ****
 #### Week 1: 
 ##### Frontend
